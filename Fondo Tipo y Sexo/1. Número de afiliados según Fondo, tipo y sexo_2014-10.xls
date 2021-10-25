@@ -1,0 +1,385 @@
+<html>
+	<head>
+				
+	</head>
+	<body>
+		
+<table  width="605" border="0" cellspacing="0" cellpadding="0" class="table" >
+  <tr  align="left" valign="top" > 
+    <td  width="12" ><img  src="/safpstats/stats/imag/auxi/block_transparente.gif" width="12" height="17" ></td>
+    <td  >&nbsp;</td>
+  </tr>
+  <tr  align="left" valign="top" > 
+    <td  width="12" >&nbsp;</td>
+    <td  ><!-- Generado con TW v2.5 --><!--contenido-->
+<table  border="1" cellspacing="0" class="table tw8" >
+<caption  >N&Uacute;MERO DE AFILIADOS SEG&Uacute;N FONDO, TIPO Y SEXO (1)<BR  >
+(Al 31 de Octubre de 2014)</caption>
+<tr  >
+<td  rowspan="2" class="NOMBRE" nowrap="" >TIPO Y SEXO</td>
+<td  class="TITUuno" nowrap="" >FONDO TIPO A</td>
+<td  class="TITUuno" nowrap="" >FONDO TIPO B</td>
+<td  class="TITUuno" nowrap="" >FONDO TIPO C</td>
+<td  class="TITUuno" nowrap="" >FONDO TIPO D</td>
+<td  class="TITUuno" nowrap="" >FONDO TIPO E</td>
+</tr>
+<tr  >
+<td  nowrap="" >M&Aacute;S RIESGOSO</td>
+<td  nowrap="" >RIESGOSO</td>
+<td  nowrap="" >INTERMEDIO</td>
+<td  nowrap="" >CONSERVADOR</td>
+<td  nowrap="" >M&Aacute;S CONSERVADOR</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >AFILIADOS QUE OPTAN</td>
+<td  >    1.376.066</td>
+<td  >    1.538.245</td>
+<td  >      981.686</td>
+<td  >      218.044</td>
+<td  >      471.819</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >- DEPENDIENTES     </td>
+<td  >    1.324.933</td>
+<td  >    1.493.030</td>
+<td  >      937.654</td>
+<td  >      204.957</td>
+<td  >      446.943</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >-- Masculino       </td>
+<td  >      773.683</td>
+<td  >      785.302</td>
+<td  >      510.240</td>
+<td  >      103.655</td>
+<td  >      267.606</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >-- Femenino        </td>
+<td  >      551.250</td>
+<td  >      707.728</td>
+<td  >      427.414</td>
+<td  >      101.302</td>
+<td  >      179.337</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >-- S/I             </td>
+<td  >            0</td>
+<td  >            0</td>
+<td  >            0</td>
+<td  >            0</td>
+<td  >            0</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >- INDEPENDIENTES   </td>
+<td  >       49.858</td>
+<td  >       45.025</td>
+<td  >       43.546</td>
+<td  >       12.756</td>
+<td  >       21.073</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >-- Masculino       </td>
+<td  >       27.185</td>
+<td  >       21.287</td>
+<td  >       23.385</td>
+<td  >        6.636</td>
+<td  >       11.276</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >-- Femenino        </td>
+<td  >       22.673</td>
+<td  >       23.738</td>
+<td  >       20.161</td>
+<td  >        6.120</td>
+<td  >        9.797</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >-- S/I             </td>
+<td  >            0</td>
+<td  >            0</td>
+<td  >            0</td>
+<td  >            0</td>
+<td  >            0</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >- VOLUNTARIOS      </td>
+<td  >        1.275</td>
+<td  >          190</td>
+<td  >          486</td>
+<td  >          331</td>
+<td  >        3.803</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >-- Masculino       </td>
+<td  >          574</td>
+<td  >           21</td>
+<td  >           29</td>
+<td  >           12</td>
+<td  >          683</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >-- Femenino        </td>
+<td  >          701</td>
+<td  >          169</td>
+<td  >          457</td>
+<td  >          319</td>
+<td  >        3.120</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >-- S/I             </td>
+<td  >            0</td>
+<td  >            0</td>
+<td  >            0</td>
+<td  >            0</td>
+<td  >            0</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >AFILIADOS ASIGNADOS</td>
+<td  >          105</td>
+<td  >    2.516.622</td>
+<td  >    2.792.288</td>
+<td  >      975.460</td>
+<td  >          401</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >- DEPENDIENTES     </td>
+<td  >           91</td>
+<td  >    2.414.874</td>
+<td  >    2.644.545</td>
+<td  >      885.517</td>
+<td  >           21</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >-- Masculino       </td>
+<td  >           55</td>
+<td  >    1.245.084</td>
+<td  >    1.429.686</td>
+<td  >      365.764</td>
+<td  >           16</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >-- Femenino        </td>
+<td  >           36</td>
+<td  >    1.169.790</td>
+<td  >    1.214.859</td>
+<td  >      519.753</td>
+<td  >            5</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >-- S/I             </td>
+<td  >            0</td>
+<td  >            0</td>
+<td  >            0</td>
+<td  >            0</td>
+<td  >            0</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >- INDEPENDIENTES   </td>
+<td  >            1</td>
+<td  >      100.746</td>
+<td  >      145.316</td>
+<td  >       85.038</td>
+<td  >            0</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >-- Masculino       </td>
+<td  >            1</td>
+<td  >       46.782</td>
+<td  >       87.657</td>
+<td  >       42.399</td>
+<td  >            0</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >-- Femenino        </td>
+<td  >            0</td>
+<td  >       53.964</td>
+<td  >       57.659</td>
+<td  >       42.639</td>
+<td  >            0</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >-- S/I             </td>
+<td  >            0</td>
+<td  >            0</td>
+<td  >            0</td>
+<td  >            0</td>
+<td  >            0</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >- VOLUNTARIOS      </td>
+<td  >           13</td>
+<td  >        1.002</td>
+<td  >        2.427</td>
+<td  >        4.905</td>
+<td  >          380</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >-- Masculino       </td>
+<td  >            1</td>
+<td  >          301</td>
+<td  >          230</td>
+<td  >          152</td>
+<td  >            5</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >-- Femenino        </td>
+<td  >           12</td>
+<td  >          701</td>
+<td  >        2.197</td>
+<td  >        4.753</td>
+<td  >          375</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >-- S/I             </td>
+<td  >            0</td>
+<td  >            0</td>
+<td  >            0</td>
+<td  >            0</td>
+<td  >            0</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >TOTAL              </td>
+<td  >    1.376.171</td>
+<td  >    4.054.867</td>
+<td  >    3.773.974</td>
+<td  >    1.193.504</td>
+<td  >      472.220</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >- DEPENDIENTES     </td>
+<td  >    1.325.024</td>
+<td  >    3.907.904</td>
+<td  >    3.582.199</td>
+<td  >    1.090.474</td>
+<td  >      446.964</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >-- Masculino       </td>
+<td  >      773.738</td>
+<td  >    2.030.386</td>
+<td  >    1.939.926</td>
+<td  >      469.419</td>
+<td  >      267.622</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >-- Femenino        </td>
+<td  >      551.286</td>
+<td  >    1.877.518</td>
+<td  >    1.642.273</td>
+<td  >      621.055</td>
+<td  >      179.342</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >-- S/I             </td>
+<td  >            0</td>
+<td  >            0</td>
+<td  >            0</td>
+<td  >            0</td>
+<td  >            0</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >- INDEPENDIENTES   </td>
+<td  >       49.859</td>
+<td  >      145.771</td>
+<td  >      188.862</td>
+<td  >       97.794</td>
+<td  >       21.073</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >-- Masculino       </td>
+<td  >       27.186</td>
+<td  >       68.069</td>
+<td  >      111.042</td>
+<td  >       49.035</td>
+<td  >       11.276</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >-- Femenino        </td>
+<td  >       22.673</td>
+<td  >       77.702</td>
+<td  >       77.820</td>
+<td  >       48.759</td>
+<td  >        9.797</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >-- S/I             </td>
+<td  >            0</td>
+<td  >            0</td>
+<td  >            0</td>
+<td  >            0</td>
+<td  >            0</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >- VOLUNTARIOS      </td>
+<td  >        1.288</td>
+<td  >        1.192</td>
+<td  >        2.913</td>
+<td  >        5.236</td>
+<td  >        4.183</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >-- Masculino       </td>
+<td  >          575</td>
+<td  >          322</td>
+<td  >          259</td>
+<td  >          164</td>
+<td  >          688</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >-- Femenino        </td>
+<td  >          713</td>
+<td  >          870</td>
+<td  >        2.654</td>
+<td  >        5.072</td>
+<td  >        3.495</td>
+</tr>
+<tr  >
+<td  class="ITEM" nowrap="" >-- S/I             </td>
+<td  >            0</td>
+<td  >            0</td>
+<td  >            0</td>
+<td  >            0</td>
+<td  >            0</td>
+</tr>
+</table>
+
+<BR  ><BR  >
+<table  border="1" cellspacing="0" class="table come" >
+<caption  ></caption>
+<tr  >
+<td  class="NOTAnumero" >FUENTE:</td>
+<td  class="NOTAceleste" >
+Informe Estad&iacute;stico Mensual de Afiliados y Cotizantes.
+</td>
+</tr>
+<tr  >
+<td  class="NOTAnumero" >(1)</td>
+<td  class="NOTAceleste" >Un afiliado podría distribuir su saldo a lo mas en dos fondos.</td>
+</tr>
+</table>
+
+<br  ><p  class="parrafo00" >Informaci&oacute;n actualizada el 10 de diciembre de 2014</p>
+<!--/contenido--></td>
+  </tr>
+  <tr  align="left" valign="top" >
+    <td  width="12" >&nbsp;</td>
+    <td  align="center" >
+      <table  width="480" border="0" cellspacing="2" cellpadding="2" align="center" class="table" >
+        <tr  align="center" valign="top" > 
+          <td  ><a  href="javascript:history.back();" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('volver','','/safpstats/stats/imag/auxi/vol_on.gif',1)" ></a></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr  align="left" valign="top" > 
+    <td  width="12" >&nbsp;</td>
+    <td  >&nbsp;</td>
+  </tr>
+</table>
+<br  >
+
+ 
+
+	</body>
+</html>
